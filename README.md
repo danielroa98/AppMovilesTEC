@@ -18,3 +18,28 @@ git branch -l
 `
 git status
 `
+## Cancela todos los cambios
+`
+git checkout <.>
+`
+
+`
+git checkout <Branch>
+`
+
+`
+git checkout <file>
+`
+
+## Para guardar y descargar de cache
+`
+git stash
+`
+
+Almacena el archivo en cache
+
+`
+git stash pop
+`
+
+Saca el archivo del cache
